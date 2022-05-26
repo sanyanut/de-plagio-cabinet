@@ -1,0 +1,26 @@
+@import "./components/side-menu/side-menu.styles.scss";
+@import "./components/top-menu/top-menu.styles.scss";
+@import "./components/plagiarism-block/plagiarism-block.styles.scss";
+@import "./pages/plagiarism-checker/plagiarism-checker.styles.scss";
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #3381F0;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}

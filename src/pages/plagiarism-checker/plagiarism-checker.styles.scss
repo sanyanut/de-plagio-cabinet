@@ -1,0 +1,11 @@
+.plagiarism-checker {
+  padding-left: 260px;
+}
+
+/*MEDIA QUERIES*/
+
+@media screen and (max-width: 992px){
+  .plagiarism-checker {
+    padding-left: 0;
+  }
+}

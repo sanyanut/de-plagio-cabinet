@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/de-plagio-cabinet/static/css/main.81dfe807.css",
-    "main.js": "/de-plagio-cabinet/static/js/main.4ba70363.js",
+    "main.js": "/de-plagio-cabinet/static/js/main.a77a8107.js",
     "static/js/787.a9b6a624.chunk.js": "/de-plagio-cabinet/static/js/787.a9b6a624.chunk.js",
     "static/media/dollar.svg": "/de-plagio-cabinet/static/media/dollar.e4f0e69a00a6d79552f637d83feddd6a.svg",
     "static/media/correct.svg": "/de-plagio-cabinet/static/media/correct.cbcc8602ddaee11077b113f223398f4e.svg",
@@ -14,11 +14,11 @@
     "static/media/user.svg": "/de-plagio-cabinet/static/media/user.1731b51455b63b7f9266cdafc19f31cc.svg",
     "static/media/envelope.svg": "/de-plagio-cabinet/static/media/envelope.5d312703b5aed141314dcd5ad2f4ee8d.svg",
     "main.81dfe807.css.map": "/de-plagio-cabinet/static/css/main.81dfe807.css.map",
-    "main.4ba70363.js.map": "/de-plagio-cabinet/static/js/main.4ba70363.js.map",
+    "main.a77a8107.js.map": "/de-plagio-cabinet/static/js/main.a77a8107.js.map",
     "787.a9b6a624.chunk.js.map": "/de-plagio-cabinet/static/js/787.a9b6a624.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81dfe807.css",
-    "static/js/main.4ba70363.js"
+    "static/js/main.a77a8107.js"
   ]
 }

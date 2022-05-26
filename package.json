@@ -2,7 +2,7 @@
   "name": "de-plagio-cabinet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sanyanut.github.io",
+  "homepage": "https://sanyanut.github.io/de-pagio-cabinet",
   "dependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
@@ -35,7 +35,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

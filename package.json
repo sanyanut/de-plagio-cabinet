@@ -2,7 +2,7 @@
   "name": "de-plagio-cabinet",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://sanyanut.github.io",
+  "homepage": "https://sanyanut.github.io/deplagio",
   "dependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",

@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.81dfe807.css",
-    "main.js": "/static/js/main.b5f03889.js",
-    "static/js/787.a9b6a624.chunk.js": "/static/js/787.a9b6a624.chunk.js",
-    "static/media/dollar.svg": "/static/media/dollar.e4f0e69a00a6d79552f637d83feddd6a.svg",
-    "static/media/correct.svg": "/static/media/correct.cbcc8602ddaee11077b113f223398f4e.svg",
-    "static/media/copyright-symbol.svg": "/static/media/copyright-symbol.79b32c49648785b384e8e94434d4f64a.svg",
-    "static/media/megaphone.svg": "/static/media/megaphone.a92ae5bf6689406d73697d4c8d9fc3c8.svg",
-    "static/media/reply.svg": "/static/media/reply.50717d2f27769c400ae2567a8c3608d1.svg",
-    "static/media/shopping-list.svg": "/static/media/shopping-list.b8d74a487068193a78b389a4b5817637.svg",
-    "index.html": "/index.html",
-    "static/media/cards.svg": "/static/media/cards.a312781ca7dd2fb6be9506938c3f3ed1.svg",
-    "static/media/user.svg": "/static/media/user.1731b51455b63b7f9266cdafc19f31cc.svg",
-    "static/media/envelope.svg": "/static/media/envelope.5d312703b5aed141314dcd5ad2f4ee8d.svg",
-    "main.81dfe807.css.map": "/static/css/main.81dfe807.css.map",
-    "main.b5f03889.js.map": "/static/js/main.b5f03889.js.map",
-    "787.a9b6a624.chunk.js.map": "/static/js/787.a9b6a624.chunk.js.map"
+    "main.css": "/de-pagio-cabinet/static/css/main.81dfe807.css",
+    "main.js": "/de-pagio-cabinet/static/js/main.ef728138.js",
+    "static/js/787.a9b6a624.chunk.js": "/de-pagio-cabinet/static/js/787.a9b6a624.chunk.js",
+    "static/media/dollar.svg": "/de-pagio-cabinet/static/media/dollar.e4f0e69a00a6d79552f637d83feddd6a.svg",
+    "static/media/correct.svg": "/de-pagio-cabinet/static/media/correct.cbcc8602ddaee11077b113f223398f4e.svg",
+    "static/media/copyright-symbol.svg": "/de-pagio-cabinet/static/media/copyright-symbol.79b32c49648785b384e8e94434d4f64a.svg",
+    "static/media/megaphone.svg": "/de-pagio-cabinet/static/media/megaphone.a92ae5bf6689406d73697d4c8d9fc3c8.svg",
+    "static/media/reply.svg": "/de-pagio-cabinet/static/media/reply.50717d2f27769c400ae2567a8c3608d1.svg",
+    "static/media/shopping-list.svg": "/de-pagio-cabinet/static/media/shopping-list.b8d74a487068193a78b389a4b5817637.svg",
+    "index.html": "/de-pagio-cabinet/index.html",
+    "static/media/cards.svg": "/de-pagio-cabinet/static/media/cards.a312781ca7dd2fb6be9506938c3f3ed1.svg",
+    "static/media/user.svg": "/de-pagio-cabinet/static/media/user.1731b51455b63b7f9266cdafc19f31cc.svg",
+    "static/media/envelope.svg": "/de-pagio-cabinet/static/media/envelope.5d312703b5aed141314dcd5ad2f4ee8d.svg",
+    "main.81dfe807.css.map": "/de-pagio-cabinet/static/css/main.81dfe807.css.map",
+    "main.ef728138.js.map": "/de-pagio-cabinet/static/js/main.ef728138.js.map",
+    "787.a9b6a624.chunk.js.map": "/de-pagio-cabinet/static/js/787.a9b6a624.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81dfe807.css",
-    "static/js/main.b5f03889.js"
+    "static/js/main.ef728138.js"
   ]
 }
